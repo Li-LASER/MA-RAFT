@@ -7,8 +7,6 @@ MA-RAFT is designed for robust dense velocity-field estimation from consecutive 
   <img src="assets/demo.gif" width="700">
 </p>
 
-> **TODO:** Replace `assets/demo.gif` with the GIF file you will provide.
-
 ---
 
 ## Highlights
@@ -54,9 +52,6 @@ MA-RAFT/
 │   ├── apem.py
 │   ├── dca.py
 │   └── ...
-├── configs/
-│   ├── non_ideal.yaml
-│   └── pivdataset1.yaml
 ├── weights/
 │   ├── ma_raft_non_ideal.pth
 │   └── ma_raft_pivdataset1.pth
