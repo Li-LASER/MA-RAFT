@@ -4,7 +4,7 @@ This repository provides the official implementation of MA-RAFT, a morphology-aw
 MA-RAFT is designed for robust dense velocity-field estimation from consecutive particle images, especially when the tracer images suffer from particle morphology variation, photometric fluctuation, background contamination, blur, agglomeration, or other imaging-chain degradation.
 
 <p align="center">
-  <img src="assets/demo.gif" width="700">
+  <img src="assets/demo.mp4" width="700">
 </p>
 
 ---
